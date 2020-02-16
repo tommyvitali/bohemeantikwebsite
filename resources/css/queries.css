@@ -1,0 +1,960 @@
+/* big tablets to 1600px (width smaller than the 1140px row) */
+@media only screen and (max-width:1600px) {
+
+    .about {
+        padding: 2rem 0rem 0 0rem;
+       
+    }
+
+    .imagebags,
+    .imagebagsinactive {
+        max-width:90%;
+        height:auto;
+        margin:0 auto;
+        
+    }
+
+    
+    
+
+    .promo h3  {
+        max-width: 90%;
+        margin:0 auto;
+    }
+    .text {
+     width:90%;   
+     margin:0 auto;
+    }
+   
+    .text p {
+        width:50%;
+        margin:0 auto;
+        
+        
+    }
+
+    .buttonshop {
+        padding-top: 2rem;
+    }
+
+
+
+}
+
+
+
+/* big tablets to 14400px (width smaller than the 1140px row) */
+@media only screen and (max-width:1440px) {
+
+    .main-nav li {
+        
+        margin-left:1rem;
+        
+    }
+
+    
+    .social {
+        width:50%;
+        margin:0 auto;
+    }
+    .abouttext {
+        padding:0;
+    }
+    .about p {
+        width:80%;
+    }
+
+        .imageabout  {
+            width: 90%;
+            text-align: center;
+            margin:0 auto;
+        }
+        .imageabout img {
+            max-width: 90%;
+        }
+
+        .phototext {
+            margin-left:-1rem;
+        }
+
+        .alittledescription p {
+            line-height: 1.5rem;
+            font-size: 1.2vw;
+        }
+
+    
+
+
+}
+
+/* big tablets to 1366px (width smaller than the 1140px row) */
+@media only screen and (max-width:1366px) {
+
+    
+
+    .social {padding:3rem 0 5rem 0}
+
+    .logo {
+        padding-left: 2.5rem;
+        padding-right: 2.5rem;
+    }
+
+    .aboutsection {padding-top: 0;}
+    .phototext {
+        width:100%;
+    }
+
+    #zen {
+        max-width: 75%;
+    }
+
+    #red {
+        max-width: 75%;
+    }
+    .phototext p {width:100%;}
+    .phototext h2 {text-align: left;}
+
+    .florence {
+        padding-right: 0;
+        padding-left: 0;
+        
+    }
+
+    .firenze {width:50%;}
+    .firenze p {width:80%;
+        font-size: 1.5vw;
+        padding:0;
+    
+    }
+
+    .fotofirenze {
+        width:50%;
+    }
+
+    .main-nav li {font-size: 1vw;}
+
+    .artist h3 {
+        margin-left: 4rem;
+        
+    }
+
+    
+
+    .artist p {
+        width:80%;
+        
+        line-height: 20px;
+        margin-left: 3rem;
+        font-size: 1.4vw;
+        
+      }
+
+     
+        
+
+
+}
+
+/* big tablets to 1024px (width smaller than the 1140px row) */
+@media only screen and (max-width:1024px) {
+
+    .header {
+        
+        background-position-y:-5rem;
+    }
+
+    .logo img {
+    
+        width:3rem;
+        
+    }
+
+    .main-nav li {font-size: 1.4vw;}
+    .maintitle {margin-top: 0;}
+
+    .social {padding:2rem 0 2rem 0}
+
+    .about {margin-top: 0;}
+
+    .fa-facebook:hover,
+    .fa-instagram:hover,
+    .fa-etsy:hover {
+        color:rgb(235, 235, 235);
+    
+            }
+
+    h3 {
+        color:#CD9F7A;
+        font-family: lato;
+        letter-spacing: 6px;
+        text-transform: uppercase;
+        padding:1rem 0;
+        font-size:1.4vw;
+        text-align: center;
+      }
+
+      .aboutsection {
+          padding-top: 4rem;
+      }
+
+      .aboutsection p {
+          font-size: 1.2vw;
+          width:80%;
+      }
+
+      .imageabout img:hover {
+        outline: none;
+        
+        
+        
+      }
+
+    .florence {padding:2rem 0;}
+    
+    .florence p {
+        font-size: 1.5vw;
+        
+        padding-left: 2rem;
+    }
+
+    .latest p {
+        font-size: 4vw;
+    }
+
+    .text p {
+        font-size: 1.5vw;
+    }
+
+   /*  .buttonshop {
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        padding:2rem  2rem 2rem 2rem;
+      } */
+
+      /* .button {
+          width:30%;
+          padding:1.5rem;
+          border-radius: 50px;
+          font-size: 2.5vw;
+      }
+       */
+    
+
+    .textsolidbags p {width:30%;}
+
+    .palle {
+        margin-right: 1rem;
+    }
+
+    #zen {
+        max-width: 60%;
+    }
+
+    #red {
+        max-width: 60%;
+    }
+
+    .contact-form input {
+        
+        
+        
+        font-size: 1.3vw;
+        width:40%;
+        margin:1rem auto;
+        
+        border-radius: 50px;
+        
+}
+
+
+
+.contact-form textarea {
+    
+    margin:1rem auto;
+    
+    font-size: 1.4vw;
+    width: 40%;
+    
+}
+
+
+
+}
+
+
+/* big tablets to 900px (width smaller than the 1140px row) */
+@media only screen and (max-width:900px) {
+
+    .header {
+        
+        background-position-y:-2rem;
+    }
+
+    .maintitle {width:100%;}
+
+    .aboutsection {
+        padding-top: 2rem;
+    }
+    #zen {
+        max-width: 50%;
+    }
+
+    #red {
+        max-width: 50%;
+    }
+
+    .buttonshop {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+
+    .phototext {
+        left:20%;
+    }
+        
+    .alittledescription {
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+
+    .videonews {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .palle {
+        margin:0 auto;
+    }
+
+    .videonews video {
+        width:100%;
+        
+        
+      }
+
+      .footer {
+        
+        padding: 1rem 1rem 0.5rem 1rem;
+    }
+
+    
+}
+
+
+    
+
+
+
+/* Small phones to small tablets;from 587 to 767px */
+@media only screen and (max-width:767px) {
+
+    /*--------------------------------*/
+    /*NAVBAR COLLAPSE*/
+    /*--------------------------------*/
+
+    .logo {
+        
+         padding:1rem 2rem 1rem 2rem;
+         display:block;
+       }
+
+
+    .menu-toggle,
+    .menu-toggle.active {
+        display:block;
+        width:40px;
+        height:40px;
+        margin:10px;
+        
+        float:right;
+        cursor: pointer;
+        text-align: center;
+        font-size: 30px;
+        color:white;
+    }
+
+    .menu-toggle:before {
+        font-family: 'fontAwesome';
+        content:'\f0c9';
+        line-height: 40px;
+        
+    }
+
+    .menu-toggle.active:before {
+        font-family: 'fontAwesome';
+        content:'\f00d';
+        color:rgba(255, 255, 255, 0.76);
+        
+        
+        
+    }
+
+    
+
+    .main-nav.active ul {
+        width:100%;
+        margin:0 auto;
+    }
+
+    nav {
+        display:none;
+    }
+
+   nav.active {
+
+       display:block;
+       -webkit-animation:fadeIn 2s;
+               animation:fadeIn 2s;
+       text-align: center;
+       background:rgba(0, 0, 0, 0.808);
+       
+            
+   }
+
+  
+
+   .logo.active {
+    background-color: rgb(0, 0, 0);
+   }
+   
+
+   @-webkit-keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+  
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+  
+    to {
+      opacity: 1;
+    }
+  }
+
+    .logo.active ul {
+        display:-webkit-box;
+        display:flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+        -webkit-box-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+                align-items: center;
+                padding:1rem 0;
+                width:100%;
+                font-style: normal;
+                
+    }
+
+    .logo.active ul li {
+        font-size: 3.5vw;
+        letter-spacing: 2px;
+        padding:5px;
+        margin:0;
+
+    }
+    .maintitle.active {
+        visibility: hidden;
+    }
+
+    /*--------------------------------*/
+    /*END NAVBAR COLLAPSE*/
+    /*--------------------------------*/
+    
+
+    
+
+    .header {
+        
+        background-position-y:-3rem;
+    }
+
+    
+
+    .maintitle {
+        padding-top: 0;
+    }
+
+    .about {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+    }
+
+    .abouttext {
+        display:none;
+    }
+
+    .promoabout {
+        width:100%;
+    }
+
+    .imageabout {
+        
+        width:100%;
+    }
+
+    .imageabout img {
+        width:100%;
+    }
+
+    .aboutsection {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .textvertical {
+        display:block;
+        padding:0rem 1rem 3rem 1rem;
+      }
+
+      .textvertical p {
+          width:60%;
+          font-size: 3vw;
+          text-align: center;
+          margin:0 auto;
+          color:#B9B8B8;
+            font-weight: bold;
+            
+            letter-spacing: 2px;
+            font-family: lato;
+      }
+
+      h3 {
+       
+        letter-spacing: 8px;
+        
+    
+        font-size:3vw;
+        
+      }
+
+      .text {
+          display:none;
+      }
+
+      .bags {
+          padding-left: 0;
+          padding-right: 0;
+      }
+
+      .imagebags {
+          width:100%;
+          margin:none;
+      }
+
+      .imagebags img {
+          width:100%;
+      }
+
+      .about {padding:0;
+                width:100%;
+    }
+
+      .promo {margin-top: 3.5rem;
+                width:100%;
+    }
+
+      .buttonshop .button {
+        font-size: 3vw;
+    }
+
+    .artist h3 {margin-left: 3rem;}
+
+    .artist p {
+        margin-left:2rem;
+    }
+
+    .alittledescription p {
+        font-size: 2.5vw;
+    }
+
+    .abouttextbags {
+        display:none;
+    }
+
+    .textsolidbagsvertical {
+        display:block;
+        width: 400px;
+        padding: 0 0 0 0;
+        margin:0 auto;
+      }
+
+      .textsolidbagsvertical p {
+        width: 25%;
+        padding:10px;
+        text-align: center;
+        margin: 0 auto;
+        color: rgb(253, 253, 253);
+        font-weight: bold;
+        font-size: 1.9vw;
+        letter-spacing: 2px;
+        font-family: lato;
+        text-transform: uppercase;
+        border-radius: 20px;
+        border:2px solid rgb(236, 236, 236);
+        background-color: #CD9F7A;
+        cursor: pointer;
+        -webkit-transition: 0.3s;
+        transition: 0.3s;
+        
+      }
+
+      .textsolidbagsvertical p:hover {
+        -webkit-transform: scale(1.1);
+                transform: scale(1.1);
+        background-color: white;
+        color:#CD9F7A;
+         
+       }
+     
+       .textsolidbagsvertical a {
+         text-decoration: none;
+       }
+      
+       #red {max-width:90%;}
+
+       .contact-form p {
+           font-size: 6vw;
+       }
+
+       .contact-form input {
+        
+        
+        
+        font-size: 2vw;
+        width:70%;
+        margin:1rem auto;
+        
+        border-radius: 50px;
+        
+}
+
+.contact-form textarea {
+    
+    margin:1rem auto;
+    
+    font-size: 2vw;
+    width: 75%;
+    
+}
+
+.footer p {
+    font-size: 2.5vw;
+}
+.scritta p {
+    font-size: 6vw;
+}
+
+.copyright p {
+    font-size: 1.5vw;
+}
+
+.socialfooter {margin-bottom: 1.5rem;}
+
+      
+      
+
+
+}
+
+   
+
+/* Small phone:from 0 to 586px */
+@media only screen and (max-width:586px) {
+
+    /*--------------------------------*/
+    /*HEADER*/
+    /*--------------------------------*/
+
+    .header {
+        
+        background-position:center;
+    }
+
+    .active {
+        
+        margin:0 auto;
+        
+    }
+
+    .logo {
+        padding:0;
+    }
+
+    .logo img {
+        width:2rem;
+        margin-top:14px;
+        margin-left: 13px;
+    }
+
+    .social {
+        
+        font-size: 6vw;
+        
+    }
+
+    .maintitle {
+        padding:0;
+    }
+
+    .maintitle p {
+        padding:1.5rem 0 0 0;
+    }
+
+    .title1{
+        
+        font-size: 6vw;
+    }
+
+    .title1 p {
+        padding-top: 0.5rem;
+    }
+
+    .secondtitle {
+        font-size: 2.8vw;
+    }
+
+     /*--------------------------------*/
+    /*FLORENCE SECTION*/
+    /*--------------------------------*/
+
+    .florence {
+        padding: 1rem;
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+        -webkit-box-pack: justify;
+                justify-content: space-between;
+        -webkit-box-align: center;
+                align-items: center;
+        background-color: black;
+    }
+
+    .firenze {
+        width:100%;
+        padding:0;
+        margin-bottom: 50px;
+        margin-top: 40px;
+        
+
+    }
+
+    .firenze p {
+        text-align: center;
+        margin:0 auto;
+        padding:0;
+        width:100%;
+        font-size:4vw;
+    }
+
+    .fotofirenze {
+        width:100%;
+        display:block;
+        text-align: center;
+        margin:0 auto;
+        
+    }
+
+    .fotofirenze img {
+        width:100%;
+        padding:0;
+       
+    }
+
+
+     /*--------------------------------*/
+    /*bags images*/
+    /*--------------------------------*/
+
+    .textvertical {
+        padding-bottom: 1rem;
+    }
+
+     /*--------------------------------*/
+    /*ABOUT US*/
+    /*--------------------------------*/
+
+    .alittle {
+        display: -webkit-box;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+        -webkit-box-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+                align-items: center;
+    }
+
+    .photo {
+        width:100%;
+        height:25vh;
+        background-position: center;
+        
+    }
+
+    .phototext {
+        position:absolute;
+        top:25%;
+        left:0;
+        width:100%;
+        margin:0;
+        font-size: 6.5vw;
+        padding-top: 1rem;
+        
+        
+      }
+
+      .phototext p {
+          width:100%;
+          
+          margin:0 auto;
+          text-align: center;
+      }
+      
+      .phototext h2 {
+        font-size: 2.5vw;
+        text-align: center;
+        
+        padding:1rem 0 0 0 ;
+        margin:0;
+    
+      }
+
+    .alittledescription {
+        width:100%;
+        text-align: center;
+        padding:1.5rem;
+        
+    }
+    .alittledescription p {
+        font-size: 3vw;
+    }
+
+     /*--------------------------------*/
+    /*SECTION VIDEO ARTIST*/
+    /*--------------------------------*/
+
+    .videonews {
+        padding:2rem 0;
+        display:-webkit-box;
+        display:flex;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+                flex-direction: column;
+        justify-content: space-around;
+        -webkit-box-align: center;
+                align-items: center;
+        background-color: black;
+      }
+
+      .video2 {
+          width:100%;
+      }
+
+      .video2 h3,
+      .artist h3 {
+          width:100%;
+          font-size: 6.5vw;
+          margin:0 auto;
+      }
+
+      .artist {
+          width:100%;
+      }
+
+      
+
+      .palle2 p {
+          font-size: 4vw;
+          line-height: 1.8rem;
+          margin:0;
+          padding:0;
+          width:100%;
+          padding:0 25px;
+      }
+
+      /*--------------------------------*/
+    /*SOLID BAGS*/
+    /*--------------------------------*/
+
+    .textsolidbagsvertical {
+        width:100%;
+    }
+
+    .textsolidbagsvertical p {
+        font-size: 4.8vw;
+    }
+
+    .latest {
+        padding-right: 0;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .latest p {
+        font-size: 6vw;
+        width:100%;
+    }
+
+    /*--------------------------------*/
+    /*CONTACTS*/
+    /*--------------------------------*/
+
+    .contacts {
+        padding:0;
+    }
+
+    .contacts input {
+        font-size: 3vw;
+    }
+
+    .contact-form textarea {
+        font-size: 3vw;
+    }
+
+    form .submit {
+        font-size: 4vw;
+        padding:0.5rem;
+    }
+
+    /*--------------------------------*/
+    /*FOOTER*/
+    /*--------------------------------*/
+
+    .footer {
+        padding-bottom: 5px;
+        padding-left: 10px;
+        padding-right:10px;
+    }
+
+    .socialfooter p {
+        font-size: 4vw;
+    }
+
+    .socialfooter a {
+        font-size: 6vw;
+        
+        
+      }
+
+      .copyright p {
+          font-size: 2.5vw;
+          text-align: center;
+      }
+
+}

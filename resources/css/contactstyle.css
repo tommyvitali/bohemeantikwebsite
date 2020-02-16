@@ -1,0 +1,60 @@
+* {
+    margin:0;
+    padding:0;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    
+}
+
+html,
+body {
+    background:rgba(0, 0, 0, 0.678);
+    background-position: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 3vw;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+    height:auto;
+    
+
+}
+
+.answer {
+    display:flex;
+    background-color: rgba(240, 240, 240, 0.815);
+    justify-content: center;
+    align-items:center;
+    padding:3rem;
+    width:60%;
+    border:1px solid black;
+    margin:1rem auto;
+        -webkit-box-shadow: 0px 0px 14px 0px rgba(133,131,133,1);
+    -moz-box-shadow: 0px 0px 14px 0px rgba(133,131,133,1);
+    box-shadow: 0px 0px 14px 0px rgba(133,131,133,1);
+}
+
+.answer p {
+    text-align: center
+}
+
+.home {
+    display:flex;
+    color:rgb(0, 0, 0);
+    justify-content: center;
+    align-items:center;
+    padding:0;
+    width:60%;
+    
+    margin:0 auto;
+     
+}
+
+.home a {
+    color:rgb(124, 124, 124);
+    text-decoration: none;
+    cursor:pointer;
+
+}
